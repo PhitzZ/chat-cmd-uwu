@@ -22,6 +22,8 @@ _cd chat-cmd-uwu_
 
 _pip install -r requirements.txt_
 
+_pip install colorama_
+
 # Usage
 Starting the Server
 1.) Open a terminal (CMD on Windows).
