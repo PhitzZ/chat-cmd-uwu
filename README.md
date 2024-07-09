@@ -9,7 +9,9 @@ between different PCs over a network using Python's socket programming. This pro
 
 # Getting Started
 **Prerequisites**
+
 1.) Python 3.x installed on all machines.
+
 2.) Basic knowledge of using command-line interface (CMD, Terminal).
 
 **Installation**
