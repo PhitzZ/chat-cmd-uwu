@@ -1,5 +1,5 @@
 # chatUwu
-chat-cmd-uwu is a simple command-line based chat application that allows communication between different PCs over a network using Python's socket programming.
+**chatUwu** is a simple command-line based chat application that allows communication between different PCs over a network using Python's socket programming.
 This project demonstrates basic client-server architecture and multi-threading to handle multiple clients simultaneously.
 
 # Features
