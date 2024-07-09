@@ -74,8 +74,9 @@ Type **exit** to disconnect.
 >_python client.py 192.168.1.100 9999_
 
 chatUwU Interface:
-
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+>
+>
+![](https://github.com/PhitzZ/chatUwu/blob/main/image.png)
 
 
 
