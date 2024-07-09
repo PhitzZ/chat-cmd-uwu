@@ -14,7 +14,7 @@ between different PCs over a network using Python's socket programming. This pro
 
 **Installation**
 
-_git clone https://github.com/PhitzZ/chat-cmd-uwu.git_
+_git clone https://github.com/PhitzZ/chatUwu_
 
 _cd chat-cmd-uwu_
 
